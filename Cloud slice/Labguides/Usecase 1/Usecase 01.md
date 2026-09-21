@@ -50,8 +50,8 @@ In this task, you create a Fabric workspace. The workspace contains all the item
 
     | Credential | Value |
     |---|---|
-    | Username | +++@lab.CloudPortalCredential+++(User1).Username+++ |
-    | Password | +++@lab.CloudPortalCredential+++(User1).Password+++ |
+    | Username | +++@lab.CloudPortalCredential(User1).Username+++ |
+    | Password | +++@lab.CloudPortalCredential(User1).Password+++ |
 
     ![](https://raw.githubusercontent.com/technofocus-pte/msfbrcryfndepth/refs/heads/main/Cloud%20slice/Labguides/Usecase%201/media/image1.png)
 
@@ -90,7 +90,7 @@ In this task, you create a Fabric workspace. The workspace contains all the item
 
     ![](https://raw.githubusercontent.com/technofocus-pte/msfbrcryfndepth/refs/heads/main/Cloud%20slice/Labguides/Usecase%201/media/image9.png)
 
-1. In the New item dialog, enter +++app+++ in the search box, and then select **App (preview)** from the search results
+1. In the New item dialog, enter +++app+++ in the search box, and then select **App (preview)** from the search results. Enter +++to-do-app+++ for the app name.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/msfbrcryfndepth/refs/heads/main/Cloud%20slice/Labguides/Usecase%201/media/image10.png)
 
