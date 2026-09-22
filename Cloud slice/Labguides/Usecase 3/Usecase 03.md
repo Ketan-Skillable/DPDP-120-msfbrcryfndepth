@@ -38,8 +38,8 @@ In this task, you create a Fabric workspace. The workspace contains all the item
 
     | Credential | Value |
     |---|---|
-    | Username | +++@lab.CloudPortalCredential+++(User1).Username+++ |
-    | Password | +++@lab.CloudPortalCredential+++(User1).Password+++ |
+    | Username | +++@lab.CloudPortalCredential(User1).Username+++ |
+    | Password | +++@lab.CloudPortalCredential(User1).Password+++ |
 
     ![](https://raw.githubusercontent.com/technofocus-pte/msfbrcryfndepth/refs/heads/main/Cloud%20slice/Labguides/Usecase%203/media/image1.png)
 
@@ -316,7 +316,7 @@ In this task, you create a Fabric workspace. The workspace contains all the item
 
     `npm run dev`
 
-1. When prompted, enter the Fabric workspace name +++Rayfin-Fabric@lab.LabInstance.Id+++ and press Enter to continue the deployment process.
+1. When prompted, enter the Fabric workspace name +++Rayfin-Fabric-Todoapp@lab.LabInstance.Id+++ and press Enter to continue the deployment process.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/msfbrcryfndepth/refs/heads/main/Cloud%20slice/Labguides/Usecase%203/media/image52.png)
 
